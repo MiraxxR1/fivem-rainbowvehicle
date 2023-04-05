@@ -34,4 +34,4 @@ Citizen.CreateThread(function()
     end
 end)
 
-print("^1 fivem-rainbowvehicle - By MiraxxR#8801 - https://github.com/MiraxxR1/fivem-rainbowvehicle - https://discord.gg/wJmnKQHTWD^7")
+print("^4 fivem-rainbowvehicle - By MiraxxR#8801 - https://github.com/MiraxxR1/fivem-rainbowvehicle - https://discord.gg/wJmnKQHTWD^0")
