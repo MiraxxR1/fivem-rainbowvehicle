@@ -16,7 +16,7 @@ This script for FiveM allows your players to give a dynamic effect to your vehic
 ## Getting Started
 
 ### Preview
-- https://streamable.com/mfy5cy
+- 
 
 ### Installation : 
 
