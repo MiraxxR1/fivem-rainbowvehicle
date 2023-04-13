@@ -1,11 +1,11 @@
 <div align="center">
-  <a href="https://github.com/MiraxxR1/fivem-rainbowvehicle"> </a>
+  <a href="https://github.com/CriticalRR/fivem-rainbowvehicle"> </a>
   <h3 align="center">fivem-rainbowvehicle</h3>
 
   <p align="center">
     This script for FiveM allows your players to give a dynamic effect to your vehicle by changing the color, neon lights and headlights every second on your server.
     <br />
-    <a href="https://discord.gg/wJmnKQHTWD">Discord Support</a>
+    <a href="https://discord.gg/kcgKxtHgCf">Discord Support</a>
   </p>
 </div>
 
